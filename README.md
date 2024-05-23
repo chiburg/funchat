@@ -1,2 +1,2 @@
 # funchat
-This is my first project!
+Test project!
