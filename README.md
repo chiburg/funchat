@@ -1,2 +1,2 @@
 # funchat
-Test project!
+test project 2
